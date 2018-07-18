@@ -1,3 +1,33 @@
+@font-face {
+    font-family: Pier Sans;
+    src: url(fonts/piersans.otf);
+}
+
 body {
-    background: lightblue;
+    margin: 0;
+    font-family: Pier Sans;
+}
+
+header {
+    padding: 1rem 1rem;
+    
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 120px;
+    /* border-bottom: 1px solid #aaa; */
+}
+
+header .logo {
+    height: 100%;
+    margin-right: 2rem;
+}
+
+header .title {
+    font-size: 3rem;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
 }

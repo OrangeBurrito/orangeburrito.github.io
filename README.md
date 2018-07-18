@@ -1,6 +1,3 @@
 ## OrangeBurrito
-this is my website
-
-* One 
-  * Two
-  * Three
+discord: OrangeBurrito#8301
+nothing to see here! (･.◤)
